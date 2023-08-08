@@ -1,7 +1,7 @@
 <h1 align="left" style="font-size: 30px; font-family: 'Arial Round', sans-serif;">Hi 👋, I'm Aby Jose</h1>
 <h3 align="left" style="font-size: 20px; font-family: 'Arial Round', sans-serif;">I'm A Code Under Development.🤏😎</h3>
 <br>
-<img src="https://media4.giphy.com/media/3o7abxtmPxanzaESGY/giphy.webp?cid=ecf05e4715ivqvpohjsfwv4tg9rs95l2az7vei4gn018qjfo&rid=giphy.webp&ct=g" width=400px; height=400px;>
+<img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width=400px; height=400px;>
 <br>
 <br>
 <h3 align="left" style="font-family: 'Arial Round', sans-serif;">ABOUT ME :</h3>
