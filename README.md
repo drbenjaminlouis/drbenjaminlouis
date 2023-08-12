@@ -1,22 +1,94 @@
-<h1 align="left" style="font-size: 30px; font-family: 'Arial Round', sans-serif;">Hi 👋, I'm Aby Jose</h1>
-<h3 align="left" style="font-size: 20px; font-family: 'Arial Round', sans-serif;">I'm A Code Under Development.🤏😎</h3>
+<img src="https://camo.githubusercontent.com/bcd372c3090e442aeefdc7bd7923dac2e01061fe6532897be517df8b59ea9e97/68747470733a2f2f7777772e6665676e6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7765622d646576656c6f706d656e742d636f6d70616e792d696e2d6b6f6368692e676966" width="1080px" height="400px" style="display: block; margin: 0 auto;">
+
+<h1 align="center">Hi 👋, I'm Aby Jose</h1>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 <br>
-<img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" width=400px; height=400px;>
+<h2 align="center">
+  <q style="font-size: 24px;">Nothing is impossible, the word itself says, ‘I'm possible!'</q>
+</h2>
 <br>
-<br>
-<h3 align="left" style="font-family: 'Arial Round', sans-serif;">ABOUT ME :</h3>
- <p style="font-family: 'Arial Round', sans-serif;">- 🌱 I’m currently learning <strong>VISUAL BASIC, SQL, HTML, CSS</strong></p>
- <p style="font-family: 'Arial Round', sans-serif;">- 📫 How to reach me <strong>abyjoseofficial@gmail.com</strong></p>
- <p style="font-family: 'Arial Round', sans-serif;">- 🦚 Nothing is impossible, the word itself says, ‘I'm possible!</p>
-<h3 align="left" style="font-family: 'Arial Round', sans-serif;">CONNECT WITH ME :</h3>
-<p ></p>
-<p align="left"><img align="center" src="https://img.icons8.com/color/1x/instagram-new.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> drbenjaminlouisss</a></p>
-<p align="left"> <img align="center" src="https://img.icons8.com/fluency/1x/facebook-new.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://www.facebook.com/aby.jose.377/" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> Facebook</a></p>
-<p align="left"><img align="center" src="https://img.icons8.com/3d-fluency/1x/gmail.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> Send Mail</a></p>
-<h3 align="left" style="font-family: 'Arial Round', sans-serif;">SKILLS :</h3>
-<p align="left"><img align="center" src="https://img.icons8.com/color/1x/html-5.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> HTML</a></p>
-<p align="left"><img align="center" src="https://img.icons8.com/color/1x/css3.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> CSS</a></p>
-<p align="left"><img align="center" src="https://img.icons8.com/color/1x/visual-studio.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> VISUAL STUDIO</a></p>
-<p align="left"><img align="center" src="https://img.icons8.com/color/1x/microsoft-access-2019.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> MS ACCESS</a></p>
-<p align="left"><img align="center" src="https://img.icons8.com/external-frizty-kerismaker/1x/external-SQL-network-frizty-kerismaker.png" alt="drbenjaminlouisss" height="30" width="30"/><a href="https://instagram.com/drbenjaminlouisss" target="_blank" style="color: rgb(0, 0, 0); font-size: 15px; text-decoration:none; font-weight: bold; font-family: 'Arial Round', sans-serif;"> SQL</a></p>
-<p align="left" style="font-family: 'Arial Round', sans-serif;"> <img src="https://komarev.com/ghpvc/?username=drbenjaminlouis&label=Profile%20views&color=0e75b6&style=flat" alt="drbenjaminlouis" /> </p>
+
+## 🚀 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQL-database?style=for-the-badge&logo=postgresql&logoColor=blue" alt="SQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+---
+
+## 🔧 Skills
+
+- **Front-end Development**: Crafting visually appealing and responsive user interfaces using HTML, CSS, and JavaScript, while ensuring cross-browser compatibility and accessibility.
+
+- **React Expertise**: Building modern and efficient single-page applications (SPAs) with React, leveraging component-based architecture and state management libraries.
+
+- **Back-end Development**: Developing server-side logic using Node.js and Express.js, designing RESTful APIs, and integrating databases for robust and scalable web applications.
+
+- **Database Management**: Proficient in working with both NoSQL databases like MongoDB, ensuring seamless data storage and retrieval.
+
+- **Version Control**: Git enthusiast, experienced in collaborating on projects, managing branches, and ensuring a smooth workflow for teams.
+
+- **Problem Solving**: Strong analytical skills and a knack for troubleshooting and debugging, ensuring optimal performance and seamless functionality of web applications.
+
+---
+
+## 🌱 Projects
+
+## [#1 Hotstar Clone](https://github.com/drbenjaminlouis/hotstar-clone)
+
+This project involves recreating the frontend of the popular streaming platform Hotstar using HTML, CSS, and JavaScript.
+
+<p align="left">
+  <img src="https://github.com/drbenjaminlouis/drbenjaminlouis/assets/64739511/c48ba436-4d6d-4c45-8964-166561fac6a5" alt="Hotstar Clone Screenshot" width="400px" height="200px">
+</p>
+
+## [#2 Cable TV Management System](https://github.com/drbenjaminlouis/CABLE-TV-MANAGEMENT-SYSTEM)
+
+CABLE TV MANAGEMENT SYSTEM (CTVMS) is an application for cable tv operators to manage their customers. This Application provide option for login to both operator (admin) and customers. It helps admin to manage both cable tv and broadband connection.
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/64739511/228830588-82ca0ff5-e097-49c1-80c5-f83f44a80d8c.png" alt="CTVMS 2 Screenshot" width="400px" height="200px">
+</p>
+
+---
+
+## ✨ My Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drbenjaminlouis&" alt="drbenjaminlouis" width="1080px" height="400px" style="display: block; margin: 0 auto;"/></p>
+
+---
+
+## 📩 Let's Connect
+
+<p align="center">
+  Feel free to reach out and connect with me on LinkedIn or via email.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abyjose">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abyjose377@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+ ✨ Thank you for visiting! ✨
+</p>
+
+---
+
+
+
