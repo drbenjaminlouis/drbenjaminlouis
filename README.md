@@ -1,7 +1,7 @@
 <img src="https://github.com/drbenjaminlouis/drbenjaminlouis/assets/64739511/20019d86-ebe1-487f-a2a5-65f2cefe7409" width="1080px" height="400px" style="display: block; margin: 0 auto;">
 
 <h1 align="center">Hi 👋, I'm Aby Jose</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Full Stack Web and Android Developer</h3>
 <br>
 <h2 align="center">
   <q style="font-size: 24px;">Nothing is impossible, the word itself says, ‘I'm possible!'</q>
@@ -21,7 +21,18 @@
   <img src="https://img.shields.io/badge/SQL-database?style=for-the-badge&logo=postgresql&logoColor=blue" alt="SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/XML-555555?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Visual_Basic.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/Guna_UI-333333?style=for-the-badge&logo=guna-ui&logoColor=white" alt="Guna UI">
 </p>
+
+
 
 ---
 
@@ -30,6 +41,8 @@
 - **Front-end Development**: Crafting visually appealing and responsive user interfaces using HTML, CSS, and JavaScript, while ensuring cross-browser compatibility and accessibility.
 
 - **React Expertise**: Building modern and efficient single-page applications (SPAs) with React, leveraging component-based architecture and state management libraries.
+
+- **Kotlin Development**: Proficient in developing native Android applications using Kotlin, implementing user interfaces, and integrating with backend services.
 
 - **Back-end Development**: Developing server-side logic using Node.js and Express.js, designing RESTful APIs, and integrating databases for robust and scalable web applications.
 
@@ -68,8 +81,6 @@ CABLE TV MANAGEMENT SYSTEM (CTVMS) is an application for cable tv operators to m
 ---
 
 ## 📩 Let's Connect
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
   Feel free to reach out and connect with me on LinkedIn or via email.
