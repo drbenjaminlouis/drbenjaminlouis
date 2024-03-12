@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/bcd372c3090e442aeefdc7bd7923dac2e01061fe6532897be517df8b59ea9e97/68747470733a2f2f7777772e6665676e6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7765622d646576656c6f706d656e742d636f6d70616e792d696e2d6b6f6368692e676966" width="1080px" height="400px" style="display: block; margin: 0 auto;">
+<img src="https://github.com/drbenjaminlouis/drbenjaminlouis/assets/64739511/20019d86-ebe1-487f-a2a5-65f2cefe7409" width="1080px" height="400px" style="display: block; margin: 0 auto;">
 
 <h1 align="center">Hi 👋, I'm Aby Jose</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
@@ -68,6 +68,8 @@ CABLE TV MANAGEMENT SYSTEM (CTVMS) is an application for cable tv operators to m
 ---
 
 ## 📩 Let's Connect
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
   Feel free to reach out and connect with me on LinkedIn or via email.
