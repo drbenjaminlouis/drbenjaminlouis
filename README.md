@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Full Stack Web and Android Developer</h3>
 <br>
 <h2 align="center">
-  <q style="font-size: 24px;">Nothing is impossible, the word itself says, ‘I'm possible!'</q>
+  <q style="font-size: 14px;">Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</q>— Albert Schweitzer
 </h2>
 <br>
 
